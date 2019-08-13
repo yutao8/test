@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello world~
-=======
 hi
->>>>>>> release/v0.1.1
